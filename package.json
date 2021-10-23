@@ -11,6 +11,10 @@
         "Purple"
     ],
     "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ClassContinue/class-dark-purple.git"
+    },
     "engines": {
         "vscode": "^1.61.0"
     },

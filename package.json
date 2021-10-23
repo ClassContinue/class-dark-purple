@@ -1,0 +1,33 @@
+{
+    "name": "class-dark-purple",
+    "displayName": "Class dark purple",
+    "publisher": "ClassContinue",
+    "description": "Official theme by Class Continue",
+    "version": "0.0.1",
+    "keywords": [
+        "vs code",
+        "Class",
+        "Dark",
+        "Purple"
+    ],
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Class Dark Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Class Dark Purple-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "axios": "^0.23.0",
+        "fast-xml-parser": "^3.20.3"
+    }
+}
